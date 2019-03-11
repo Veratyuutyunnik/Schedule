@@ -1,0 +1,10 @@
+.slist {
+	display:none;
+}
+.slist:checked ~ .you_list {
+	display:none
+	}
+.list {
+	font-style:oblique;
+	color:green;
+}
